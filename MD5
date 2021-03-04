@@ -1,6 +1,6 @@
-5353f1308ecbf32e0f0f1185ddf9b992 *DESCRIPTION
+17eddd63016980989435b5a6a9a6b475 *DESCRIPTION
 acfb84da92bfa45ac680793a46cd5db8 *NAMESPACE
-0b552d7c5ac54c475a14c87bbd49adda *R/RcppExports.R
+7c0c3d27af6e29cbf60f020af5bb7344 *R/RcppExports.R
 a2f3d90a946442c45853c29e8609940c *R/catch-routine-registration.R
 8e0bfd3f2de06080504e07c504df8bd8 *R/mdgc-package.R
 ce4227ac183bd8e9621d46b518ddefdb *R/mdgc.R
@@ -38,10 +38,10 @@ e753b1e5b887b3cb9d7abf5b06786531 *man/mdgc_start_value.Rd
 b1fda2c2fc974e4ee0bc86d36ad36765 *src/C_FORTRAN_interface.c
 88c8279d3addceb137a846c550d16870 *src/Makevars
 0c9cfbe99e26afa1b4a682c65235906b *src/RcppExports.cpp
-c5505d28b1f6674402e5e8e88eb3cfcc *src/arma-wrap.h
+ad6ca1500ea924053ba7b92aa76881ee *src/arma-wrap.h
 a1ec3930f56163eff94c701db531009f *src/config.h
 6258b855feb20c23f44da65eb5c25ae9 *src/cpp-to-R.cpp
-261739a1c69dd88345b0ff4d669427a2 *src/fast-commutation.h
+9eba683a137df047e3baa201daa48ef8 *src/fast-commutation.h
 df46a58fb995e7e68dae259676f9ab3d *src/logLik.cpp
 0fc9ea92679b0b4812628707690309d8 *src/logLik.h
 aa7c7fa05d3ab356ff05a03b591248f3 *src/lp_utils.h
