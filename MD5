@@ -1,6 +1,6 @@
-50bea5a9383b608ec194174b902df646 *DESCRIPTION
+ad12dc73e686706f79cb2d11cc1f6389 *DESCRIPTION
 acfb84da92bfa45ac680793a46cd5db8 *NAMESPACE
-8e7c328475e7da67306104fa4a74cf3a *NEWS
+96cf65952f9a64c99015e5ccbbae0c66 *NEWS
 0b552d7c5ac54c475a14c87bbd49adda *R/RcppExports.R
 a2f3d90a946442c45853c29e8609940c *R/catch-routine-registration.R
 8e0bfd3f2de06080504e07c504df8bd8 *R/mdgc-package.R
@@ -37,7 +37,7 @@ a2485faf772d5595f0e132a591a525b4 *man/mdgc_impute.Rd
 8b6966b1a1acb5b5b77794263f90462e *man/mdgc_log_ml.Rd
 7e6e87472e4cbc9c4ecd166944f2c5d6 *man/mdgc_start_value.Rd
 b1fda2c2fc974e4ee0bc86d36ad36765 *src/C_FORTRAN_interface.c
-88c8279d3addceb137a846c550d16870 *src/Makevars
+5ef859acb81f3afecb16137c9520e570 *src/Makevars
 1efd222f69be7869874093820f3013b6 *src/RcppExports.cpp
 2d8102ca104631bce3cb1f7eeddeb24f *src/arma-wrap.h
 a1ec3930f56163eff94c701db531009f *src/config.h
@@ -68,7 +68,7 @@ c191809b03a7abe19c003b01279d7a1b *src/test-pmvnorm.cpp
 39feb128425ec1b1a6b4fdf58f1575d6 *src/test-restrict-cdf.cpp
 c2cb0c30e10da611f9fbe56aea52f7a9 *src/test-runner.cpp
 a6060c4e36206eba346be09e1f035c32 *src/threat-safe-random.cpp
-5b58e1aee4f103ae0f6f7c03ab17f3fd *src/threat-safe-random.h
+86e1bdd476856e0723eb3e4c406c2c62 *src/threat-safe-random.h
 dd837429c33a86761a1c266facc1a66d *tests/testthat.R
 d8de9aac0bb7822055327195a18b2eef *tests/testthat/get_log_lm_terms-test-ord-bin.RDS
 2683d7b01150bcec018f9b72e75a2e8f *tests/testthat/get_log_lm_terms-test.RDS

@@ -1,7 +1,7 @@
 Package: mdgc
 Type: Package
 Title: Missing Data Imputation Using Gaussian Copulas
-Version: 0.1.6
+Version: 0.1.7
 Authors@R: c(
   person("Benjamin", "Christoffersen", 
          email = "boennecd@gmail.com", 
@@ -34,9 +34,8 @@ Depends: R (>= 3.5.0)
 LinkingTo: Rcpp, RcppArmadillo, testthat, BH, psqn
 Imports: Rcpp
 Suggests: testthat, catdata
-SystemRequirements: C++14
 NeedsCompilation: yes
-Packaged: 2022-09-10 18:02:50 UTC; boennecd
+Packaged: 2023-05-04 19:41:08 UTC; boennecd
 Author: Benjamin Christoffersen [cre, aut]
     (<https://orcid.org/0000-0002-7182-1346>),
   Alan Genz [cph],
@@ -46,4 +45,4 @@ Author: Benjamin Christoffersen [cre, aut]
   Ross Ihaka [cph]
 Maintainer: Benjamin Christoffersen <boennecd@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-09-10 18:22:54 UTC
+Date/Publication: 2023-05-04 22:30:02 UTC
